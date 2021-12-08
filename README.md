@@ -1,2 +1,2 @@
-# Logica-de-programa-2
+# Lógica-de-programação-2
 Todos os programas aprendidos nas aulas.
